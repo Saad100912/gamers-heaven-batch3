@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+.border{
+    border: 0 !important;
+}
+.nav-item-color{
+    color: black;
+    font-weight: bold;
+}
+.green-highlight{
+    color: #76b900;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
+.blue-highlight-title{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+.blue-highlight{
+    color: #363958;
+    font-size: 25px;
+    font-weight: 600;
+}
+.orange-highlight{
+    color: #d49d35;
+    font-size: 25px;
+    font-weight: 900;
+}
+footer{
+    color: rgb(129, 129, 129);
+    text-align: center;
+    font-size: 14px;
+    padding: 20px;
+}
+.section{
+    margin-top: 150px !important;
+}
+@media (max-width: 768px){
+    .img-shrink{
+        display: block;
+        width: 30% !important;
+        margin: auto auto;
+    }
+    .spacing{
+        margin-top: 100px;
+    }
+    .middle{
+        text-align: center;
+    }
+}
