@@ -39,6 +39,9 @@ footer{
     margin-top: 150px !important;
 }
 @media (max-width: 768px){
+    body{
+        margin: 0 5px;
+    }
     .img-shrink{
         display: block;
         width: 30% !important;
@@ -49,5 +52,11 @@ footer{
     }
     .middle{
         text-align: center;
+    }
+    .logo{
+        width: 70%;
+    }
+    .mobile-device{
+        padding: 50px 50px !important;
     }
 }
