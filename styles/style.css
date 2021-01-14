@@ -40,7 +40,7 @@ footer{
 }
 @media (max-width: 768px){
     body{
-        margin: 0 5px;
+        padding: 0 5px;
     }
     .img-shrink{
         display: block;
